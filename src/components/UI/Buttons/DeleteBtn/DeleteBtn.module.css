@@ -1,0 +1,12 @@
+.Delete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px; height: 30px;
+    font-size: 30px;
+    transition: all 0.3s ease;
+    color: var(--text);
+}
+.Delete:hover {
+    color: var(--red);
+}

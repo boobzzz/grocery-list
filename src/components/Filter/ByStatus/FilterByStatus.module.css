@@ -1,0 +1,10 @@
+.ByStatus {
+    margin-top: 30px;
+}
+    .ByStatus label {
+        margin: 0;
+    }
+    .ByStatus select {
+        margin-left: 10px;
+        width: 150px;
+    }

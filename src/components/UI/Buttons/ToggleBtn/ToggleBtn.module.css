@@ -1,0 +1,18 @@
+.Toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    color: var(--text);
+}
+.Toggle:hover {
+    text-decoration: none;
+    color: var(--red);
+}
+    .Toggle i {
+        font-style: normal;
+    }

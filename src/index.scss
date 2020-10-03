@@ -1,5 +1,14 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+
 body {
+  --white: #FFF;
+  --red: #FF0000;
+  --h5: #182345;
+  --label: #B2B3BA;
+  --input: #ADB5BD;
+  --text: #848484;
   margin: 0;
+  padding-right: 0px !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
